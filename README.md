@@ -425,7 +425,7 @@ Edge computing processes data closer to its source, allowing for faster decision
 Examples include smart thermostats that can adjust temperature settings instantly and security cameras with built-in AI for real-time alerts.
 Overall, the convergence of these technologies leads to smarter applications that enhance efficiency and connectivity in daily life.
 
-an overview of key concepts in machine learning and artificial intelligence (AI).
+An overview of key concepts in machine learning and artificial intelligence (AI).
 
 Machine Learning Types
 
